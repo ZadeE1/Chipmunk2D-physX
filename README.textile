@@ -1,5 +1,11 @@
 !http://files.slembcke.net/chipmunk/logo/logo1_med.png!
 
+`Chipmunk for physX`
+`Still in development`
+`Nothing implemnted yet`
+
+
+
 h2. NEW IN CHIPMUNK 7
 
 Chipmunk 7 is complete and now includes the ARM NEON optimizations, the autogeometry code, and the mulithreaded solver. 
