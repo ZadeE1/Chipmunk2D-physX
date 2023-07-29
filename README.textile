@@ -1,8 +1,8 @@
 !http://files.slembcke.net/chipmunk/logo/logo1_med.png!
 
-`Chipmunk for physX`
-`Still in development`
-`Nothing implemnted yet`
+Chipmunk for physX
+Still in development
+Nothing implemnted yet
 
 
 
